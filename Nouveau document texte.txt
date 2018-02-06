@@ -1,3 +1,4 @@
+hi
 !/bin/bash
 
 curl \
@@ -9,4 +10,5 @@ curl \
   -H "Content-Type: application/json" \
   --data '{"purge_everything":true}' \
   2>&1 | grep -v X-Auth-Key
-© 2018 GitHub, Inc.
+Â© 2018 GitHub, Inc.
+ good luck
